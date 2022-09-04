@@ -1,0 +1,15 @@
+/**/
+
+body {
+    margin: 0;
+}
+
+#banner {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: chartreuse;
+}
+
+#links > ul {
+    list-style-type: disclosure-closed;
+}
