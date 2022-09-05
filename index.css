@@ -1,7 +1,10 @@
-/**/
 
 body {
 	margin: 0;
+}
+
+main {
+	margin: 8px;
 }
 
 #banner {
@@ -18,6 +21,11 @@ body {
 
 #main-table td {
 	border: medium solid black;
+	vertical-align: top;
+}
+
+#icon {
+	padding: 0.5rem;
 }
 
 #links {
@@ -25,4 +33,5 @@ body {
 }
 
 #bio {
+	padding: 1rem;
 }
